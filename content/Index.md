@@ -59,3 +59,7 @@ These are a list of topics as they relate to character creation. Importantly, th
 
 # Misc Entries
 1. [[Appendix N]]
+
+```ad-note
+Pay no mind to anything in the working folder. That is a WIP folder for the world builders. Unless told otherwise, please wait until pages are moved from Working to their category before reference.
+```
