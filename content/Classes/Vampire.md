@@ -13,3 +13,6 @@ To be a vampire to to naturally be a hunter of some kind. Their combat roles are
 1. Claim revenge against the one who turned you.
 2. Uncover the mysterious of your past.
 3. Hunt the other predators who stalk the night.
+
+# Tainted Blood
+You draw your power from the shadows and your blood runs cold. You begin the game with **1 taint point**. However, you do not suffer the consequences from **Mild Taint**. Should you be the target of an effect that would bestow a taint point as a result, you gain a natural **+1** to your **Will defense** for that attack/effect. Also, instead of rolling for physical traits at **Moderate** and **Severe** taint levels, you simply become more undead looking; your fangs grow longer and more feral looking, you skill becomes more pale and taught around your bones. See [[The Taint]] for more details. 
