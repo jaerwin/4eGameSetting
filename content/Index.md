@@ -58,7 +58,7 @@ These are a list of topics as they relate to character creation. Importantly, th
 4. [[Locations]]
 
 # Mechanics
-1. [[The Taint]]
+1. [[The Taint of Evil]]
 2. 
 
 # Misc Entries
