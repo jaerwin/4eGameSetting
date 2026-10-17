@@ -5,6 +5,8 @@ title: 4e Homebrew Setting
 ---
 This is the home page for the world building project. From here you can follow a number of links that should guide you through learning about the worlds.
 
+# [[Player Facing Summery]]
+
 # Player Options
 These are a list of topics as they relate to character creation. Importantly, these are the main options for the campaign; quite possibly your only options.
 
